@@ -1,0 +1,5 @@
+1. It looks like a base64 encode string
+2. try base64 decode but fail
+3. try rot18 to decode the cipher
+4. use the decode message to use base64 decode
+5. get the flag

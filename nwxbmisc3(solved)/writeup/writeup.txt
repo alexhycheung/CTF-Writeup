@@ -1,0 +1,3 @@
+1. use hex editor to open .me.swp
+2. search flag
+3. get flag
